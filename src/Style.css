@@ -1,0 +1,39 @@
+.main {
+    margin: auto;
+    width: 1000px;
+}
+.person-data {
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+    border-bottom: 1px solid darkred;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: khaki;
+}
+.element {
+    font-size: 25px;
+    color: darkred;
+    padding-left: 50px;
+}
+.elementc {
+    font-size: 25px;
+    color: darkred;
+    padding-left: 50px;
+}
+.elemc {
+    font-size: 25px;
+    color: darkcyan;
+    border-bottom: 1px solid darkred;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.elem {
+    padding-top: 15px;
+    font-size: 25px;
+    color: darkcyan;
+}
+
+.block {
+    background-color: khaki;
+}
